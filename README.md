@@ -1,4 +1,4 @@
-# Hi there, I'm Diya 👋
+# Hi there, I'm Diya Panchal👋
 
 I’m a passionate web developer and blockchain enthusiast. Currently working on a **DeFi insurance platform** and enhancing my **React** skills. I love exploring the intersection of **technology** and **finance**, especially through the lens of decentralized applications!
 
@@ -41,15 +41,15 @@ I’m a passionate web developer and blockchain enthusiast. Currently working on
 
 ## 🎯 Featured Projects
 
-### [Real Estate Website](https://github.com/diya/real-estate)
+### [Real Estate Website](https://github.com/DiyaPanchal/RealEstate_Project/tree/master)
 A **frontend website** for a real estate company, built using **HTML5, CSS3, and JavaScript**.
 - **Key Features**: Property listings, image carousel, responsive design.
 
-### [DeFi Insurance Platform](https://github.com/diya/defi-insurance)
+### [DeFi Insurance Platform](https://github.com/DiyaPanchal/DeFi-Insurance-Platform)
 A **decentralized insurance platform** that enables transparent and secure management of claims using **blockchain**.
 - **Key Features**: Smart contract-based claim validation, patient privacy, secure data storage.
 
-### [Music Recommender System](https://github.com/diya/music-recommender)
+### [Music Recommender System](https://github.com/DiyaPanchal/Music_Recommendation_System)
 A **machine learning project** that suggests music based on users' preferences using a recommendation algorithm.
 - **Key Features**: Personalized playlists, advanced recommendation model, data visualization.
 
@@ -63,6 +63,6 @@ A **machine learning project** that suggests music based on users' preferences u
 
 ## 📫 Let's Connect!
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=Linkedin&logoColor=white)](https://linkedin.com/in/diya-panchal)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diya-panchal-683784255/)
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white)](https://diya.dev)
-- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:diya@example.com)
+- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:diyapanchal2003@gmail.com)
