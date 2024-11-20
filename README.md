@@ -64,5 +64,5 @@ A **machine learning project** that suggests music based on users' preferences u
 ## 📫 Let's Connect!
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diya-panchal-683784255/)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white)](https://diya.dev)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=google-chrome&logoColor=white)]()
 - [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:diyapanchal2003@gmail.com)
